@@ -1,0 +1,4 @@
+Esta es la historia de Daniel haciendo el curso de Git y Github de Platzi.
+
+El curso lo empecé hoy 23 de Junio y hasta ahora todo va muy bien.
+
