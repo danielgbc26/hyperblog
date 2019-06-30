@@ -37,3 +37,13 @@ font-size: 0.8em;
 #post {
     padding: 1em;
 }
+
+#picture-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#picture {
+    max-width: 30%;
+    
+}
